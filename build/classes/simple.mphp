@@ -1,0 +1,2 @@
+$s = read "Entre com uma string";
+echo $s . "\n";

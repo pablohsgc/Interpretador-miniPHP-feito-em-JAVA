@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/expr/VarVarExpr.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/expr/Variable.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/mphpi.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/expr/ArrayExpr.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/command/AssignCmd.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/syntatic/SyntaticAnalysis.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/expr/AccessExpr.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/command/ForeachCommand.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/expr/UnaryExpr.java</file>
+            <file>file:/C:/Users/pablo/OneDrive/Área%20de%20Trabalho/Interpretador/src/interpreter/command/EchoCommand.java</file>
+        </group>
+    </open-files>
+</project-private>

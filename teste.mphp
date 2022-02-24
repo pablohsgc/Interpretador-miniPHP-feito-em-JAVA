@@ -1,0 +1,72 @@
+$band = array("David Mustaine" => "guitars",
+              "David Ellefson" => "bass",
+              "Martin Friedman" => "guitars",
+              "Nick Menza" => "drums");
+
+echo $band["David Mustaine"];
+/*echo "Members:\n";
+foreach ($band as $member => $instrument) {
+    echo "  " . $member . ": " . $instrument . "\n";
+    $$instrument++;
+}*
+
+echo "Stats:\n";
+echo "  Guitars: " . $guitars . "\n";
+echo "  Bass: " . $bass . "\n";
+echo "  Drums: " . $drums . "\n";*/
+
+/*$n = read "Digite um numero:";
+
+$i = 0;
+
+echo $i-- . "\n";
+echo $i . "\n";
+while($i < $n){
+	echo "$i = ".$i . "\n";
+	$i++;
+}*/
+
+/*$x = "A";
+echo $x . "\n";
+$$x = 50;
+echo $A . "\n";*/
+
+/*while($n < 11){
+	echo $n;
+	$n += 1;
+}*/
+
+
+
+/*$n1 = read "Digite (n1): ";
+$n2 = read "Digite (n2): ";
+
+$n1 = $n1 * $n2;
+
+echo "O resultado da multiplicacao foi: ". $n1 ."\n";*/
+
+/*while($i <= $n2){
+	echo $i;
+	echo "\n";
+	$i = $i + 1;
+}*/
+
+
+
+/*if($n < 20){
+	echo "Menor";
+	echo $n;
+	echo "Impressao dentro do if";
+}else{
+	echo "Maior";
+}
+
+
+$s = "Variaveis funcionando";
+$n = 50;
+$n2 = 10; 
+$n2 += $n + 10;
+echo $s;
+echo $n;
+echo $n2 + 4;
+echo "Teste de print";*/

@@ -1,0 +1,5 @@
+Observações:
+- Verificar oq a classe assign comando deve fazer, se ela cria a variável ou se a variável é passada como parãmetro.Verificar o pq um dos parametros é inicializados com null;
+- Verificar como irá funcionar o metoco execute de forEach;
+- Como funciona o AcessExpr porque um dos parametros é inicializados com null?
+- Covo fazer arrayexpr funcionar
